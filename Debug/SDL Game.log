@@ -1,0 +1,15 @@
+﻿  ModuleWindow.cpp
+  ModuleTextures.cpp
+  ModuleSceneKen.cpp
+  ModuleSceneHonda.cpp
+  ModuleRender.cpp
+  ModulePlayer.cpp
+  ModuleInput.cpp
+  ModuleFadeToBlack.cpp
+  ModuleAudio.cpp
+  Main.cpp
+  Log.cpp
+  Application.cpp
+  Generando código...
+  SDL Game.vcxproj -> C:\Users\maximinopm\Documents\GitHub\SDL Game 2 - Master - Handout\Debug\SDL Game - Master 1 Handout.exe
+  SDL Game.vcxproj -> C:\Users\maximinopm\Documents\GitHub\SDL Game 2 - Master - Handout\Debug\SDL Game - Master 1 Handout.pdb (Partial PDB)
